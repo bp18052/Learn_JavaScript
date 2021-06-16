@@ -1,2 +1,2 @@
 # Learn_JavaScript
-JavaScript学習用
+*JavaScript学習用*
